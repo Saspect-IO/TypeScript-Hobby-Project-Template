@@ -1,11 +1,6 @@
-# WebGL Procedural Terrain Generator
+# TypeScript Starter Template
 
-project description.
-
-
-## 🚀 Demo 
-- [Demo](https://saspect-io.github.io/)
-
+TypeScript project template for tinkering with ideas
 
 ## Dev Usage
 
@@ -13,13 +8,7 @@ project description.
 - npm install
 - npm run dev
 
-
 ## Deployment
 
 - npm run build
-
-
-## Resources for learning
-
-- [link](https://saspect-io.github.io/)
 

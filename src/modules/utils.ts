@@ -1,1 +1,3 @@
-export const test = ()=>console.log('test');
+import { Example } from ".";
+
+export const exampleUtil = (param:Example)=>console.log(param.data);
